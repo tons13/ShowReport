@@ -27,7 +27,7 @@ namespace ShowReport
 
         private void frmImpressao_Load(object sender, EventArgs e)
         {
-            ImprimirRelatorio("RptRelatorioEmprestimo.rpt", "Select * from ViewDevolucao where DataDevolucaoEfetiva Is Null");
+            //ImprimirRelatorio("RptRelatorioEmprestimo.rpt", "Select * from ViewDevolucao where DataDevolucaoEfetiva Is Null");
         }
     
     }

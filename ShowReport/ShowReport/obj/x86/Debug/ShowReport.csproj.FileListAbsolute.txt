@@ -6,3 +6,4 @@ C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\ShowReport\ShowRepo
 C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\ShowReport\ShowReport\obj\x86\Debug\ShowReport.exe
 C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\ShowReport\ShowReport\obj\x86\Debug\ShowReport.pdb
 C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\ShowReport\ShowReport\obj\x86\Debug\ShowReport.frmGerarRelatorio.resources
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\ShowReport\ShowReport\obj\x86\Debug\ShowReport.csprojResolveAssemblyReference.cache

@@ -51,7 +51,7 @@
             this.ClientSize = new System.Drawing.Size(524, 416);
             this.Controls.Add(this.crViewer);
             this.Name = "frmImpressao";
-            this.Text = "Form1";
+            this.Text = "Impressão Relatórios";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmImpressao_Load);
             this.ResumeLayout(false);
